@@ -1,0 +1,13 @@
+Identifying a prime number.
+
+What is a prime number?
+a number that can only be divided by one and itself!
+
+for x; we will test it with von zwei bis x
+
+
+STEP 1: CLEAN INPUT.
+what is the needed input: integer!
+what are the wrong inputs: string, real numbers
+
+2,3,5,7,
